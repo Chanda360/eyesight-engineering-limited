@@ -242,6 +242,6 @@ header .logo-box {
         font-size: x-large;
     }
     header h1 {
-        padding-top: 25% 8% 0% 8%;
+        padding: 25% 8% 0% 8%;
     }
 }
